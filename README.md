@@ -1,9 +1,6 @@
 # tkhwang challenges
 
-## [advent of code](./advent-of-code/)
+## TypeScript
 
-* [Advent of Code](https://adventofcode.com/)
-
-## [type-challenges](./type-challenges/)
-
-* [type-challenges/type-challenges: Collection of TypeScript type challenges with online judge](https://github.com/type-challenges/type-challenges)
+- [ ] [Beginner's TypeScript Tutorial | Total TypeScript](https://www.totaltypescript.com/tutorials/beginners-typescript)
+- [ ] [type-challenges/type-challenges: Collection of TypeScript type challenges with online judge](https://github.com/type-challenges/type-challenges)
