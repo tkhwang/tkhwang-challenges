@@ -4,3 +4,6 @@ build
 src/**/*.txt
 
 .DS_Store
+
+_org
+beginners-typescript-tutorial-org
