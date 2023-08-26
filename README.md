@@ -22,4 +22,9 @@ Challenges collections.
 - [ ] [type-challenges](./ts/type-challenges/)
   - ref: [type-challenges/type-challenges: Collection of TypeScript type challenges with online judge](https://github.com/type-challenges/type-challenges)
 
+## 🌈 CSS
+
+- [ ] [flex froggy](./css/flexbox-froggy)
+  - ref: [flex froggy](https://flexboxfroggy.com/)
+
 ## 🥤 SQL
